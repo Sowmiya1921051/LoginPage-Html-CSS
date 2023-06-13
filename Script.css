@@ -1,0 +1,17 @@
+body{
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+.center{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,50%);
+}
+.form .form-element input{
+    width: 100%;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #888;
+    background: #f5f5f5;
+}
